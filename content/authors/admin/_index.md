@@ -1,5 +1,5 @@
 ---
-title: Mattia Sodaln
+title: Mattia Soldan
 role: PhD student in Computer Vision
 avatar_filename: avatar.jpg
 bio: My research interests include My research interests are settled at the
