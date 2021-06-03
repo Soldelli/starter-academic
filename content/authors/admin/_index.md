@@ -2,7 +2,8 @@
 title: Mattia Sodaln
 role: PhD student in Computer Vision
 avatar_filename: avatar.jpg
-bio: My research interests include ... TBD
+bio: My research interests include My research interests are settled at the
+  intersection between Computer Vision and Natural Language Processing.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -11,42 +12,31 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mattia.soldan@kaust.edu.sa
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=M5tSjYYAAAAJ&hl=it&oi=ao
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mattia-soldan/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Soldelli
 organizations:
   - name: KAUST
     url: https://www.kaust.edu.sa/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical and Computer Engineering
+      institution: King Abdullah University of Science and Technology
+      year: ""
+    - course: MSc in Telecommunication Engineering
+      institution: University of Padua
+      year: 2017
+    - course: BSc in Information Engineering
+      institution: University of Padua
+      year: 2015
 email: ""
 superuser: true
 highlight_name: false
 ---
-Mattia Soldan ... TBD... [IVUL lab](https://cemse.kaust.edu.sa/ivul)
-
-
-
-is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a PhD student at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en)). I am part of the [Image and Video Understanding Lab (IVUL)](https://ivul.kaust.edu.sa/) advised by [Bernard Ghanem](http://www.bernardghanem.com/). I received my MSc degree in Telecommunication Engineering and my BSc degree in Information Engineering from the [Univeristy of Padua](https://www.unipd.it/en/). Currently, my research focus lies at the intersection between Computer Vision and Natural Language Processing, leveraging deep learning to improve current state-of-the-art approaches.
