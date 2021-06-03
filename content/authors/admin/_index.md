@@ -6,6 +6,7 @@ bio: My research interests include My research interests are settled at the
   intersection between Computer Vision and Natural Language Processing.
 interests:
   - Artificial Intelligence
+  - Computer Vision
   - Computational Linguistics
   - Information Retrieval
 social:
