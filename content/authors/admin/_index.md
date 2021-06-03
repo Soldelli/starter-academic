@@ -1,13 +1,13 @@
 ---
 title: Mattia Soldan
-role: PhD student in Computer Vision
+role: PhD Student - Electrical and Computer Engineering
 avatar_filename: avatar.jpg
 bio: " My research interests are settled at the intersection between Computer
   Vision and Natural Language Processing."
 interests:
   - Artificial Intelligence
   - Computer Vision
-  - Computational Linguistics
+  - Natural Language Processing
   - Information Retrieval
 social:
   - icon: envelope
@@ -23,7 +23,7 @@ social:
     icon_pack: fab
     link: https://github.com/Soldelli
 organizations:
-  - name: KAUST
+  - name: King Abdullah University of Science and Technology (KAUST)
     url: https://www.kaust.edu.sa/en
 education:
   courses:
