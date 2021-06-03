@@ -27,16 +27,16 @@ organizations:
 education:
   courses:
     - course: PhD in Electrical and Computer Engineering
-      institution: King Abdullah University of Science and Technology
+      institution: King Abdullah University of Science and Technology, Thuwal (Saudi Arabia)
       year: ""
     - course: MSc in Telecommunication Engineering
-      institution: University of Padua
+      institution: University of Padova, Padova (Italy)
       year: 2017
     - course: BSc in Information Engineering
-      institution: University of Padua
+      institution: University of Padova, Padova (Italy)
       year: 2015
 email: ""
 superuser: true
 highlight_name: false
 ---
-I am a PhD student at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en)). I am part of the [Image and Video Understanding Lab (IVUL)](https://ivul.kaust.edu.sa/) advised by [Bernard Ghanem](http://www.bernardghanem.com/). I received my MSc degree in Telecommunication Engineering and my BSc degree in Information Engineering from the [Univeristy of Padua](https://www.unipd.it/en/). Currently, my research focus lies at the intersection between Computer Vision and Natural Language Processing, leveraging deep learning to improve current state-of-the-art approaches.
+I am a PhD student at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en)). I am part of the [Image and Video Understanding Lab (IVUL)](https://ivul.kaust.edu.sa/) advised by [Bernard Ghanem](http://www.bernardghanem.com/). I received my MSc degree in Telecommunication Engineering and my BSc degree in Information Engineering from the [University of Padova](https://www.unipd.it/en/). Currently, my research focus lies at the intersection between Computer Vision and Natural Language Processing, leveraging deep learning to improve current state-of-the-art approaches.
