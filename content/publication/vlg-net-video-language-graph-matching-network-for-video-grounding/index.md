@@ -29,10 +29,21 @@ abstract: "Grounding language queries in videos aims at identifying the time
   datasets for temporal localization of moments in videos with language queries:
   ActivityNet-Captions, TACoS, and DiDeMo."
 draft: false
-featured: false
+featured: true
+projects:
+  - VLG-Net
 image:
   filename: vlg-net.png
   focal_point: Smart
   preview_only: false
 date: 2021-12-08T11:00:43.124Z
 ---
+BibTex
+
+@inproceedings{soldan2021vlg,
+  title={VLG-Net: Video-Language Graph Matching Network for Video Grounding},
+  author={Soldan, Mattia and Xu, Mengmeng and Qu, Sisi and Tegner, Jesper and Ghanem, Bernard},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3224--3234},
+  year={2021}
+}
