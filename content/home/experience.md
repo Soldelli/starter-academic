@@ -34,7 +34,7 @@ experience:
   - title: Telecommunication Engineer
     company: Telebit srl
     company_url: 'https://www.telebit.it/'
-    company_logo: telebit
+    company_logo: telebit.jpg
     location: Treviso (Italy)
     date_start: '2018-02-01'
     date_end: '2018-07-31'
