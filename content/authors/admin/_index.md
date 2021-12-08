@@ -13,7 +13,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mattia.soldan@kaust.edu.sa
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=M5tSjYYAAAAJ&hl=it&oi=ao
   - icon: linkedin
@@ -22,6 +22,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Soldelli
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Mattia-Soldan-2
+    icon: researchgate
+    icon_pack: fas
 organizations:
   - name: King Abdullah University of Science and Technology (KAUST)
     url: https://www.kaust.edu.sa/en
