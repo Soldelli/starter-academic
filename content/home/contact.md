@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 70
 
 title: Contact
 subtitle:
@@ -27,9 +27,10 @@ content:
   
 design:
   columns: '2'
+
 ---
 
-<div id="map" style="width:800px;height:400px;background:yellow"></div>
+<div id="map" style="width:825px;height:400px;background:yellow"></div>
 <script>
 function myMap() {
     var uluru = {lat: 22.308147329920814, lng: 39.10431443375659};
@@ -44,3 +45,5 @@ function myMap() {
 }
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWWes465rZ6QeVCwxWGY1dmX3sriFGg-A&callback=myMap"></script>
+
+
