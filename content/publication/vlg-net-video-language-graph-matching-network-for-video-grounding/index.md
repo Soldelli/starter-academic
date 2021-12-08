@@ -83,7 +83,8 @@ projects:
 slides: example
 ---
 
-BibTex
+**BibTex**
+
 '''
 @inproceedings{soldan2021vlg,
   title={VLG-Net: Video-Language Graph Matching Network for Video Grounding},
