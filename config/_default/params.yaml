@@ -23,20 +23,17 @@ twitter: ''
 email: mattia.solan@kaust.edu.sa
 phone: +966550659396
 address:
-#   street: 450 Serra Mall
   city: Thuwal
-#   region: Mecca
-  postcode: '23955'
+  postcode: '4700 KAUST, Al Khawarizmi Building (Bldg 1 - Floor 2 - Seaside), Office #2106-WS08, Thuwal, 23955-6900'
   country: Saudi Arabia
   country_code: SA
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Building 1 (Seaside), Floor 2, Desk 2106-WS08
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+# appointment_url: 'https://calendly.com'
 # contact_links:
 #   - icon: twitter
 #     icon_pack: fab
