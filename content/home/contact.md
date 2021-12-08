@@ -29,10 +29,10 @@ design:
   columns: '2'
 ---
 
-<div id="map" style="width:400px;height:400px;background:yellow"></div>
+<div id="map" style="width:800px;height:400px;background:yellow"></div>
 <script>
 function myMap() {
-    var uluru = {lat: 37.4275, lng: -122.1697};
+    var uluru = {lat: 22.308147329920814, lng: 39.10431443375659};
     var map = new google.maps.Map(document.getElementById('map'), {
       zoom: 9,
       center: uluru
