@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: King Abdullah University of Science and Technology
     company_url: 'https://www.kaust.edu.sa/en'
-    company_logo: assets/media/icons/brands/kaust.png
+    company_logo: images/kaust.png
     location: Thuwal, Saudi Arabia
     date_start: '2019-04-04'
     date_end: '2018-08-26'
@@ -34,7 +34,7 @@ experience:
   - title: Telecommunication Engineer
     company: Telebit srl
     company_url: 'https://www.telebit.it/'
-    company_logo: assets/media/icons/brands/telebit.jpg
+    company_logo: images/telebit.jpg
     location: Treviso (Italy)
     date_start: '2018-02-01'
     date_end: '2018-07-31'
@@ -45,4 +45,7 @@ experience:
 design:
   columns: '2'
 ---
+
+
+
 
