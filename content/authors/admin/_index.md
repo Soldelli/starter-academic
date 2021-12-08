@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: far
-    link: mattia.soldan@kaust.edu.sa
+    link: "#contact"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=M5tSjYYAAAAJ&hl=it&oi=ao
