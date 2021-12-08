@@ -45,23 +45,22 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Preprint
+  url: https://arxiv.org/abs/2011.10132
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://openaccess.thecvf.com/content/ICCV2021W/CVEU/papers/Soldan_VLG-Net_Video-Language_Graph_Matching_Network_for_Video_Grounding_ICCVW_2021_paper.pdf'
+url_code: 'https://github.com/Soldelli/VLG-Net'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=u9IwxnDCb68'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  filename: vlg-net.png
   focal_point: Smart
   preview_only: false
 
@@ -85,7 +84,7 @@ slides: example
 
 **BibTex**
 
-'''
+```
 @inproceedings{soldan2021vlg,
   title={VLG-Net: Video-Language Graph Matching Network for Video Grounding},
   author={Soldan, Mattia and Xu, Mengmeng and Qu, Sisi and Tegner, Jesper and Ghanem, Bernard},
@@ -93,4 +92,4 @@ slides: example
   pages={3224--3234},
   year={2021}
 }
-'''
+```
