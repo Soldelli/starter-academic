@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.kaust.edu.sa/en'
     company_logo: ''
     location: Thuwal, Saudi Arabia
-    date_start: '2019-04-04'
-    date_end: '2018-08-26'
+    date_start: '2018-08-26'
+    date_end: '2019-04-04'
     description: Develop of novel state-of-the-art Deep Learning architectures to address challenging Computer Vision problems.
         
   - title: Telecommunication Engineer
@@ -40,7 +40,7 @@ experience:
     date_end: '2018-07-31'
     description: "
     * Public tender proposals redaction: economic evaluation of prospect projects by analisys project's technical aspects. 
-    
+
     * Supported operational sectors of mobile networks (2G/3G/LTE) and fixed networks (Fiber optics)."
 
 design:
