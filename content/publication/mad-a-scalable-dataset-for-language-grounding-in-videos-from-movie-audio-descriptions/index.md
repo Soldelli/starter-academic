@@ -1,12 +1,12 @@
 ---
-title: "VLG-Net: Video-Language Graph Matching Network for Video Grounding"
-subtitle: Best Paper Award
+title: "MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions"
+subtitle: ''
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- **admin**
 - Alejandro Pardo
 - Juan León Alcázar
 - Fabian Caba Heilbron
@@ -20,11 +20,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-01-12T11:00:43.124Z"
+date: "2021-12-01T11:00:43.124Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-12T00:00:00Z"
+publishDate: "2021-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
