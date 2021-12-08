@@ -1,6 +1,6 @@
 ---
 title: "VLG-Net: Video-Language Graph Matching Network for Video Grounding"
-subtitle: ""
+subtitle: Best Paper Award
 publication_types:
   - "1"
 authors:
@@ -9,6 +9,7 @@ authors:
   - Sisi Qu
   - Jesper Tegner
   - Bernard Ghanem
+publication: Workshop of International Conference on Computer Vision
 abstract: "Grounding language queries in videos aims at identifying the time
   interval (or moment) semantically relevant to a language query. The solution
   to this challenging task demands understanding videos' and queries' semantic
