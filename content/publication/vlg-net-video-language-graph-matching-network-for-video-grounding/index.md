@@ -48,15 +48,24 @@ featured: true
 links:
 - name: Preprint
   url: https://arxiv.org/abs/2011.10132
+- name: PDF
+  url: https://openaccess.thecvf.com/content/ICCV2021W/CVEU/papers/Soldan_VLG-Net_Video-Language_Graph_Matching_Network_for_Video_Grounding_ICCVW_2021_paper.pdf
+- name: Supplementary Material
+  url: https://openaccess.thecvf.com/content/ICCV2021W/CVEU/supplemental/Soldan_VLG-Net_Video-Language_Graph_ICCVW_2021_supplemental.pdf
+- name: Code
+  url: https://github.com/Soldelli/VLG-Net
+- name: Video
+  url: https://www.youtube.com/watch?v=u9IwxnDCb68
 
-url_pdf: 'https://openaccess.thecvf.com/content/ICCV2021W/CVEU/papers/Soldan_VLG-Net_Video-Language_Graph_Matching_Network_for_Video_Grounding_ICCVW_2021_paper.pdf'
-url_code: 'https://github.com/Soldelli/VLG-Net'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: 'https://www.youtube.com/watch?v=u9IwxnDCb68'
+
+# url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
