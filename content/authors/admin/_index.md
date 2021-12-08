@@ -11,10 +11,10 @@ interests:
   - Information Retrieval
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: ai
     link: mattia.soldan@kaust.edu.sa
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=M5tSjYYAAAAJ&hl=it&oi=ao
   - icon: linkedin
     icon_pack: fab
@@ -26,7 +26,12 @@ social:
       header: false
     link: https://www.researchgate.net/profile/Mattia-Soldan-2
     icon: researchgate
-    icon_pack: fas
+    icon_pack: ai
+  - display:
+      header: false
+    link: https://orcid.org/ 0000-0003-0413-8165
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: King Abdullah University of Science and Technology (KAUST)
     url: https://www.kaust.edu.sa/en
