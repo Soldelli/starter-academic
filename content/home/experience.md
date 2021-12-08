@@ -22,28 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Research Intern
+    company: King Abdullah University of Science and Technology
+    company_url: 'https://www.kaust.edu.sa/en'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Thuwal, Saudi Arabia
+    date_start: '2019-08-04'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Develop of novel state-of-the-art Deep Learning architectures to address challenging Computer Vision problems.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Telecommunication Engineer
+    company: Telebit srl
+    company_url: 'https://www.telebit.it/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Treviso (Italy)
+    date_start: '2018-02-01'
+    date_end: '2018-07-31'
+    description: "
+    * Public tender proposals redaction: economic evaluation of prospect projects by analisys project's technical aspects. 
+    * Supported operational sectors of mobile networks (2G/3G/LTE) and fixed networks (Fiber optics)."
 
 design:
   columns: '2'
