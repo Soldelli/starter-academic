@@ -27,14 +27,14 @@ experience:
     company_url: 'https://www.kaust.edu.sa/en'
     company_logo: org-gc
     location: Thuwal, Saudi Arabia
-    date_start: '2019-08-04'
-    date_end: ''
+    date_start: '2019-04-04'
+    date_end: '2018-08-26'
     description: Develop of novel state-of-the-art Deep Learning architectures to address challenging Computer Vision problems.
         
   - title: Telecommunication Engineer
     company: Telebit srl
     company_url: 'https://www.telebit.it/'
-    company_logo: org-x
+    company_logo: telebit
     location: Treviso (Italy)
     date_start: '2018-02-01'
     date_end: '2018-07-31'
