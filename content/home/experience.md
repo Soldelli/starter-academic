@@ -40,6 +40,7 @@ experience:
     date_end: '2018-07-31'
     description: "
     * Public tender proposals redaction: economic evaluation of prospect projects by analisys project's technical aspects. 
+    
     * Supported operational sectors of mobile networks (2G/3G/LTE) and fixed networks (Fiber optics)."
 
 design:
