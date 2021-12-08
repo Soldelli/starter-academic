@@ -56,7 +56,7 @@ coordinates:
 main_menu:
   enable: true
   align: l
-  show_logo: false
+  show_logo: true
   show_language: false
   show_day_night: true
   show_search: true
