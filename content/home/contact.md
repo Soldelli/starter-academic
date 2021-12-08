@@ -28,3 +28,19 @@ content:
 design:
   columns: '2'
 ---
+
+<div id="map" style="width:400px;height:400px;background:yellow"></div>
+<script>
+function myMap() {
+    var uluru = {lat: 37.4275, lng: -122.1697};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 9,
+      center: uluru
+    });
+    var marker = new google.maps.Marker({
+      position: uluru,
+      map: map
+    });
+}
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWWes465rZ6QeVCwxWGY1dmX3sriFGg-A&callback=myMap"></script>
