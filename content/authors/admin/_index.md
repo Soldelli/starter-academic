@@ -11,7 +11,7 @@ interests:
   - Information Retrieval
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: far
     link: mattia.soldan@kaust.edu.sa
   - icon: google-scholar
     icon_pack: ai
