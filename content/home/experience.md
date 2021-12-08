@@ -29,7 +29,10 @@ experience:
     location: Thuwal, Saudi Arabia
     date_start: '2018-08-26'
     date_end: '2019-04-04'
-    description: Develop of novel state-of-the-art Deep Learning architectures to address challenging Computer Vision problems.
+    description: "
+    * Develop of novel state-of-the-art Deep Learning architectures to address challenging Computer Vision problems.
+
+    "
         
   - title: Telecommunication Engineer
     company: Telebit srl
