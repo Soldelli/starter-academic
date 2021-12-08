@@ -84,7 +84,7 @@ slides: example
 ---
 
 BibTex
-
+'''
 @inproceedings{soldan2021vlg,
   title={VLG-Net: Video-Language Graph Matching Network for Video Grounding},
   author={Soldan, Mattia and Xu, Mengmeng and Qu, Sisi and Tegner, Jesper and Ghanem, Bernard},
@@ -92,3 +92,4 @@ BibTex
   pages={3224--3234},
   year={2021}
 }
+'''
