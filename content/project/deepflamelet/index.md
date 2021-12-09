@@ -45,10 +45,12 @@ image:
   preview_only: false
 
 ---
+**Abstract**
 
 "In the context of large eddy simulation of turbulent reacting flows, flamelet-based models are key to affordable simulations of large and complex systems. However, as the complexity of the problem increases, higher-dimensional look-up tables are required, rendering the conventional look-up procedure too demanding. This work focuses on accelerating the estimation of flamelet- based data for the flamelet/progress variable model via an artificial neural network. The neural network hyper-parameters are defined by a Bayesian optimization and two different architectures are selected for comparison against the classical look-up procedure on the well known Sandia flame D. The performance in terms of execution time and accuracy are analyzed, showing that the neural network model reduces the computational time by 30%, as compared to the traditional table look-up, while retaining comparable accuracy."
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Publication*: In American Institute of Aeronautics and Astronautics (AIAA SciTech 2021)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Type**;&nbsp;&nbsp;&nbsp;Conference paper
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Publication**;&nbsp;&nbsp;&nbsp;In *American Institute of Aeronautics and Astronautics* (AIAA SciTech 2021)
 
 
 **BibTex**
