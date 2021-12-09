@@ -1,6 +1,9 @@
 ---
 title: "Large eddy simulation with flamelet progress variable approach combined with artificial neural network acceleration"
-subtitle: 'Cross-department collaboration for Deep Learning application to Flames simulations.'
+summary: 'Cross-department collaboration for Deep Learning application to Flames simulations.'
+
+tags:
+date: "2017-07-01T00:00:00Z"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -15,43 +18,16 @@ authors:
 - Mauro Valorani
 - Hong G. Im
 
-# Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
-# - "Equal contribution"
 
-date: "2021-01-04T11:00:43.124Z"
-doi: ""
+# Optional external URL for project (replaces project detail page).
+external_link: ""
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-04T11:00:43.124Z"
+image:
+  # caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *American Institute of Aeronautics and Astronautics*
-publication_short: In *AIAA SciTech*
-
-abstract: "In the context of large eddy simulation of turbulent reacting flows, flamelet-based models are key to affordable simulations of large and complex systems. However, as the complexity of the problem increases, higher-dimensional look-up tables are required, rendering the conventional look-up procedure too demanding. This work focuses on accelerating the estimation of flamelet- based data for the flamelet/progress variable model via an artificial neural network. The neural network hyper-parameters are defined by a Bayesian optimization and two different architectures are selected for comparison against the classical look-up procedure on the well known Sandia flame D. The performance in terms of execution time and accuracy are analyzed, showing that the neural network model reduces the computational time by 30%, as compared to the traditional table look-up, while retaining comparable accuracy."
-
-# Summary. An optional shortened abstract.
-summary: ""
-
-tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-links:
-- name: PDF
-  url: https://arc.aiaa.org/doi/pdf/10.2514/6.2021-0412
-
+url_pdf: "https://arc.aiaa.org/doi/pdf/10.2514/6.2021-0412"
+url_slides: ""
 
 # url_pdf: ''
 # url_code: ''
@@ -68,23 +44,12 @@ image:
   focal_point: Smart
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-# projects:
-# - DeepFlamelet
-
-
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
 ---
+
+"In the context of large eddy simulation of turbulent reacting flows, flamelet-based models are key to affordable simulations of large and complex systems. However, as the complexity of the problem increases, higher-dimensional look-up tables are required, rendering the conventional look-up procedure too demanding. This work focuses on accelerating the estimation of flamelet- based data for the flamelet/progress variable model via an artificial neural network. The neural network hyper-parameters are defined by a Bayesian optimization and two different architectures are selected for comparison against the classical look-up procedure on the well known Sandia flame D. The performance in terms of execution time and accuracy are analyzed, showing that the neural network model reduces the computational time by 30%, as compared to the traditional table look-up, while retaining comparable accuracy."
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Publication*: In American Institute of Aeronautics and Astronautics (AIAA SciTech 2021)
+
 
 **BibTex**
 
