@@ -23,9 +23,9 @@ subtitle:
 ### 2020
 <details>
     <summary margin=0.5>Expand</summary>
-    <p><strong>[2020-11-19]</strong> <a href="publications/vlg-net-video-language-graph-matching-network-for-video-grounding/" target="_blank">VLG-Net</a> is on ArXiv. </p>
-    <p margin=0><strong>[2020-10-22]</strong> My team won the first place at the Entertainment track of the <a href="https://neomchallenge.com/en.html" target="_blank">Neom AI Challenge</a> in Riyad. <a href="https://mattiasoldan.com/project/neom/" target="_blank">[Project page]</a></p>
-    <p margin=0><strong>[2020-05-20]</strong> Succesfully completed my PhD qualifying exams.</p>
+    <strong>[2020-11-19]</strong> <a href="publications/vlg-net-video-language-graph-matching-network-for-video-grounding/" target="_blank">VLG-Net</a> is on ArXiv.
+    <strong>[2020-10-22]</strong> My team won the first place at the Entertainment track of the <a href="https://neomchallenge.com/en.html" target="_blank">Neom AI Challenge</a> in Riyad. <a href="https://mattiasoldan.com/project/neom/" target="_blank">[Project page]</a>
+    <strong>[2020-05-20]</strong> Succesfully completed my PhD qualifying exams.
 </details>
 
 ### 2019
