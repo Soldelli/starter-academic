@@ -31,6 +31,7 @@ subtitle:
 ### 2019
 <details>
     <summary>Expand</summary>
+    <p margin=0 ><strong>[2019-08-04]</strong> <a href="project/gait-anomaly-detection/" target="_blank">Seq2Seq RNN</a> is on Arxiv. </p>
     <p margin=0 ><strong>[2019-08-04]</strong> Started Ph.D. at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a>. </p>
     <p margin=0 ><strong>[2019-07-30]</strong> <a href="publications/temporal-localization-of-moments-in-video-collections-with-natural-language/" target="_blank">STAL</a> is on ArXiv. </p>
     <p margin=0 ><strong>[2019-04-04]</strong> Concluded my Research Internship. </a> </p>
@@ -42,17 +43,18 @@ subtitle:
   <p margin=0 ><strong>[2018-08-26]</strong> Started my research internship at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a>. </p>
   <p margin=0 ><strong>[2018-07-31]</strong> Concluded my job at Telebit. </p>
   <p margin=0 ><strong>[2018-02-04]</strong> Started job at <a href="https://www.telebit.it/" target="_blank">Telebit</a> as Telecommunication Engineer. </p>
-  <p margin=0 ><strong>[2018-01-31]</strong> Accepted for the position of Research Intern with the VSRP program at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a>. </p>
+  <p margin=0 ><strong>[2018-01-31]</strong> Accepted as Research Intern with the VSRP program at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a>. </p>
 </details>
 
 ### 2017
 <details>
   <summary>Expand</summary>
-  <p margin=0 ><strong>[2018-08-26]</strong> Started my research internship at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a>. </p>
+  <p margin=0 ><strong>[2017-12-02]</strong> I received my Master degree in Telecommunication Engineering from the <a href="https://www.unipd.it/en/" target="_blank">University of Padova</a> (Italy). </p>
+  <p margin=0 ><strong>[2017-12-02]</strong> Partecipated in a <a href="https://roboy.org/" target="_blank">Robotic Hackathon</a> at <a href="https://www.tum.de/" target="_blank">Technical University of Munich</a> (Germany). </p>
 </details>
 
 ### 2015
 <details>
   <summary>Expand</summary>
-  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+  <p margin=0 ><strong>[2017-12-02]</strong> I received my Bachelor degree in Information Engineering from the <a href="https://www.unipd.it/en/" target="_blank">University of Padova</a> (Italy). </p>
 </details>
