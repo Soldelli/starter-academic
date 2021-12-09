@@ -1,6 +1,6 @@
 ---
 title: Seq2Seq RNN based gait anomaly detection from smartphone acquired multimodal motion data
-summary: Investigation of encoding strategies for Wireless Sensor Network data to prolong information persistence in the context of battery-powered devices.
+summary: Development of Deep Learning powered pipeline for anomaly detection in human gait from smartphone sensors data. 
 tags:
 date: "2019-11-09T00:00:00Z"
 
