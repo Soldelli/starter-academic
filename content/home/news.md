@@ -23,39 +23,39 @@ subtitle:
 ### 2020
 <details>
     <summary margin=0.5>Expand</summary>
-    <strong>[2020-11-19]</strong> <a href="publications/vlg-net-video-language-graph-matching-network-for-video-grounding/" target="_blank">VLG-Net</a> is on ArXiv.
-    <strong>[2020-10-22]</strong> My team won the first place at the Entertainment track of the <a href="https://neomchallenge.com/en.html" target="_blank">Neom AI Challenge</a> in Riyad. <a href="https://mattiasoldan.com/project/neom/" target="_blank">[Project page]</a>
-    <strong>[2020-05-20]</strong> Succesfully completed my PhD qualifying exams.
+    <strong>[2020-11-19]</strong> <a href="publications/vlg-net-video-language-graph-matching-network-for-video-grounding/" target="_blank">VLG-Net</a> is on ArXiv.</br>
+    <strong>[2020-10-22]</strong> My team won the first place at the Entertainment track of the <a href="https://neomchallenge.com/en.html" target="_blank">Neom AI Challenge</a> in Riyad. <a href="https://mattiasoldan.com/project/neom/" target="_blank">[Project page]</a></br>
+    <strong>[2020-05-20]</strong> Succesfully completed my PhD qualifying exams.</br>
 </details>
 
 ### 2019
 <details>
     <summary>Expand</summary>
-    <p><strong>[2019-08-04]</strong> <a href="project/gait-anomaly-detection/" target="_blank">Seq2Seq RNN</a> is on Arxiv. </p>
-    <p><strong>[2019-08-04]</strong> Started Ph.D. at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a>. </p>
-    <p><strong>[2019-07-30]</strong> <a href="publications/temporal-localization-of-moments-in-video-collections-with-natural-language/" target="_blank">STAL</a> is on ArXiv. </p>
-    <p><strong>[2019-07-21]</strong> Attendend <a href="https://irdta.eu/deeplearn2019/" target="_blank">DeepLearn</a>, International Summer School on Deep Learning in Warsaw (Poland). </a> </p>
-    <p><strong>[2019-04-04]</strong> Concluded my Research Internship. </a> </p>
+    <strong>[2019-08-04]</strong> <a href="project/gait-anomaly-detection/" target="_blank">Seq2Seq RNN</a> is on Arxiv. </br>
+    <strong>[2019-08-04]</strong> Started Ph.D. at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a>. </br>
+    <strong>[2019-07-30]</strong> <a href="publications/temporal-localization-of-moments-in-video-collections-with-natural-language/" target="_blank">STAL</a> is on ArXiv. </br>
+    <strong>[2019-07-21]</strong> Attendend <a href="https://irdta.eu/deeplearn2019/" target="_blank">DeepLearn</a>, International Summer School on Deep Learning in Warsaw (Poland). </a> </br>
+    <strong>[2019-04-04]</strong> Concluded my Research Internship. </a> </br>
 </details>
 
 ### 2018
 <details>
   <summary>Expand</summary>
-  <p><strong>[2018-08-26]</strong> Started my research internship at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a>. </p>
-  <p><strong>[2018-07-31]</strong> Concluded my job at Telebit. </p>
-  <p><strong>[2018-02-04]</strong> Started job at <a href="https://www.telebit.it/" target="_blank">Telebit</a> as Telecommunication Engineer. </p>
-  <p><strong>[2018-01-31]</strong> Accepted as Research Intern with the VSRP program at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a> in the <a href="https://cemse.kaust.edu.sa/ivul" target="_blank">IVUL</a> group. </p>
+  <strong>[2018-08-26]</strong> Started my research internship at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a>. </br>
+  <strong>[2018-07-31]</strong> Concluded my job at Telebit. </br>
+  <strong>[2018-02-04]</strong> Started job at <a href="https://www.telebit.it/" target="_blank">Telebit</a> as Telecommunication Engineer. </br>
+  <strong>[2018-01-31]</strong> Accepted as Research Intern with the VSRP program at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a> in the <a href="https://cemse.kaust.edu.sa/ivul" target="_blank">IVUL</a> group. </br>
 </details>
 
 ### 2017
 <details>
   <summary>Expand</summary>
-  <p><strong>[2017-12-02]</strong> I received my Master degree in Telecommunication Engineering from the <a href="https://www.unipd.it/en/" target="_blank">University of Padova</a> (Italy). </p>
-  <p><strong>[2017-12-02]</strong> Partecipated in a <a href="https://roboy.org/" target="_blank">Robotic Hackathon</a> at <a href="https://www.tum.de/" target="_blank">Technical University of Munich</a> (Germany). </p>
+  <strong>[2017-12-02]</strong> I received my Master degree in Telecommunication Engineering from the <a href="https://www.unipd.it/en/" target="_blank">University of Padova</a> (Italy). </br>
+  <strong>[2017-12-02]</strong> Partecipated in a <a href="https://roboy.org/" target="_blank">Robotic Hackathon</a> at <a href="https://www.tum.de/" target="_blank">Technical University of Munich</a> (Germany). </br>
 </details>
 
 ### 2015
 <details>
   <summary>Expand</summary>
-  <p><strong>[2017-12-02]</strong> I received my Bachelor degree in Information Engineering from the <a href="https://www.unipd.it/en/" target="_blank">University of Padova</a> (Italy). </p>
+  <strong>[2017-12-02]</strong> I received my Bachelor degree in Information Engineering from the <a href="https://www.unipd.it/en/" target="_blank">University of Padova</a> (Italy). </br>
 </details>
