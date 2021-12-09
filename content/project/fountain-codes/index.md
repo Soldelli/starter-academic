@@ -1,6 +1,6 @@
 ---
 title: Fountain Codes Based Distributed Storage Algorithms for Wireless Sensor Networks
-summary: Course project
+summary: Investigation of encoding strategies for Wireless Sensor Network data to prolong information persistence in the context of battery-powered devices.
 tags:
 date: "2017-07-01T00:00:00Z"
 
@@ -8,7 +8,7 @@ date: "2017-07-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 # links:
