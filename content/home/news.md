@@ -21,13 +21,10 @@ subtitle:
 
 ### 2020
 <details>
-  <summary>Expand</summary>
-    <p>
-    **[2020-11-19]** [VLG-Net](https://mattiasoldan.com/publication/vlg-net-video-language-graph-matching-network-for-video-grounding/) is on Arxiv.
-    </p></br>
-
-    <p>**[2020-10-22]** My team won the first place at the Entertainment track of the [Neom AI Challenge](https://neomchallenge.com/en.html) in Riyad. [[Project page]](https://mattiasoldan.com/project/neom/). </p></br>
-    <p>**[2020-05-20]** Succesfully completed my PhD qualifying exams. </p>
+    <summary>Expand</summary>
+    <p><strong>[2020-11-19]</strong> <a href="publications/vlg-net-video-language-graph-matching-network-for-video-grounding/" target="_blank">VLG-Net</a> is on ArXiv. </p>
+    <p><strong>[2020-10-22]</strong> My team won the first place at the Entertainment track of the <a href="https://neomchallenge.com/en.html" target="_blank">Neom AI Challenge</a> in Riyad. <a href="https://mattiasoldan.com/project/neom/" target="_blank">[Project page]</a></p>
+    <p><strong>[2020-05-20]</strong> Succesfully completed my PhD qualifying exams.</p>
 </details>
 
 ### 2019
