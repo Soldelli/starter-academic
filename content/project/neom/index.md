@@ -1,6 +1,6 @@
 ---
-title: "AI-Sports: Taking E-Sports To The Next Level with AI"
-summary: "NEOM AI Challenge: we design and propose a method to integrate AI in the NEOM vision by applying our research to E-Sports and bridging research and fun."
+title: "AI-Sports: Taking E-Sports To The Next Level"
+summary: "1st position at the NEOM AI Challenge"
 tags:
 date: "2020-08-01T00:00:00Z"
 
