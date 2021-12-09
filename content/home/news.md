@@ -34,6 +34,7 @@ subtitle:
     <p margin=0 ><strong>[2019-08-04]</strong> <a href="project/gait-anomaly-detection/" target="_blank">Seq2Seq RNN</a> is on Arxiv. </p>
     <p margin=0 ><strong>[2019-08-04]</strong> Started Ph.D. at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a>. </p>
     <p margin=0 ><strong>[2019-07-30]</strong> <a href="publications/temporal-localization-of-moments-in-video-collections-with-natural-language/" target="_blank">STAL</a> is on ArXiv. </p>
+    <p margin=0 ><strong>[2019-07-21]</strong> Attendend <a href="https://irdta.eu/deeplearn2019/" target="_blank">DeepLearn</a>, International Summer School on Deep Learning in Warsaw (Poland). </a> </p>
     <p margin=0 ><strong>[2019-04-04]</strong> Concluded my Research Internship. </a> </p>
 </details>
 
@@ -43,7 +44,7 @@ subtitle:
   <p margin=0 ><strong>[2018-08-26]</strong> Started my research internship at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a>. </p>
   <p margin=0 ><strong>[2018-07-31]</strong> Concluded my job at Telebit. </p>
   <p margin=0 ><strong>[2018-02-04]</strong> Started job at <a href="https://www.telebit.it/" target="_blank">Telebit</a> as Telecommunication Engineer. </p>
-  <p margin=0 ><strong>[2018-01-31]</strong> Accepted as Research Intern with the VSRP program at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a>. </p>
+  <p margin=0 ><strong>[2018-01-31]</strong> Accepted as Research Intern with the VSRP program at <a href="https://www.kaust.edu.sa/en" target="_blank">KAUST</a> in the <a href="https://cemse.kaust.edu.sa/ivul" target="_blank">IVUL</a> group. </p>
 </details>
 
 ### 2017
