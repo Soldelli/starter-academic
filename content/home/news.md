@@ -51,11 +51,11 @@ subtitle:
 <details>
   <summary>Expand</summary>
   <strong>[2017-12-02]</strong> I received my Master degree in Telecommunication Engineering from the <a href="https://www.unipd.it/en/" target="_blank">University of Padova</a> (Italy). </br>
-  <strong>[2017-12-02]</strong> Partecipated in a <a href="https://roboy.org/" target="_blank">Robotic Hackathon</a> at <a href="https://www.tum.de/" target="_blank">Technical University of Munich</a> (Germany). </br>
+  <strong>[2017-04-16]</strong> Partecipated in a <a href="https://roboy.org/" target="_blank">Robotic Hackathon</a> at <a href="https://www.tum.de/" target="_blank">Technical University of Munich</a> (Germany). </br>
 </details>
 
 ### 2015
 <details>
   <summary>Expand</summary>
-  <strong>[2017-12-02]</strong> I received my Bachelor degree in Information Engineering from the <a href="https://www.unipd.it/en/" target="_blank">University of Padova</a> (Italy). </br>
+  <strong>[2015-02-23]</strong> I received my Bachelor degree in Information Engineering from the <a href="https://www.unipd.it/en/" target="_blank">University of Padova</a> (Italy). </br>
 </details>
