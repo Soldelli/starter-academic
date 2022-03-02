@@ -14,11 +14,18 @@ subtitle:
 ---
 
 ### 2021
-**[2021-12-01]** [MAD](https://mattiasoldan.com/publication/mad-a-scalable-dataset-for-language-grounding-in-videos-from-movie-audio-descriptions/) is on Arxiv.</br>
-**[2021-10-17]** Awarded the **Best Paper Award** for [VLG-Net](https://mattiasoldan.com/publication/vlg-net-video-language-graph-matching-network-for-video-grounding/) work in ICCV 2021 at the [CVEU](https://cveu.github.io/) workshopt. </br>
-**[2021-08-17]** [VLG-Net](https://mattiasoldan.com/publication/vlg-net-video-language-graph-matching-network-for-video-grounding/) acccepted to the ICCV 2021 Workshop on [AI for Creative Video Editing and Understanding](https://cveu.github.io/). </br>
-**[2021-05-20]** I received the Outstanding [Reviewer Award](https://cvpr2021.thecvf.com/node/184) from CVPR.</br>
-**[2021-01-04]** Collaboration [paper](https://mattiasoldan.com/project/deepflamelet/) accepted in the proceeding of the *American Institute of Aeronautics and Astronautics* [AIAA2021](https://www.aiaa.org/). 
+**[2022-03-02]** MAD accepted in **CVPR22** [[preprint]](https://github.com/Soldelli/MAD). 
+**[2022-02-23]** Updated version of "Finding Moments in Video Collections Using Natural Language" is on ArXiv [[preprint]](https://arxiv.org/abs/1907.12763). 
+
+### 2021
+<details>
+    <summary margin=0.5>Expand</summary>
+    <strong>[2021-12-01]</strong> <a href="publication/mad-a-scalable-dataset-for-language-grounding-in-videos-from-movie-audio-descriptions/" target="_blank">MAD</a> is on ArXiv.</br>
+    <strong>[2021-10-17]</strong> Awarded the <b>Best Paper Award</b> for <a href="publication/vlg-net-video-language-graph-matching-network-for-video-grounding/" target="_blank">VLG-Net</a> work in ICCV 2021 at the <a href="https://cveu.github.io/" target="_blank">CVEU</a> workshopt. </br></br>
+    <strong>[2021-08-17]</strong> <a href="publication/vlg-net-video-language-graph-matching-network-for-video-grounding/" target="_blank">VLG-Net</a> acccepted to the ICCV 2021 Workshop on <a href="https://cveu.github.io/" target="_blank">AI for Creative Video Editing and Understanding</a></br>
+    <strong>[2021-05-20]</strong> I received the Outstanding <a href="https://cvpr2021.thecvf.com/node/184" target="_blank">Reviewer Award</a> from CVPR.</br>
+    <strong>[2021-01-04]</strong> Collaboration <a href="https://mattiasoldan.com/project/deepflamelet/" target="_blank">paper</a> accepted in the proceeding of the *American Institute of Aeronautics and Astronautics <a href="https://www.aiaa.org" target="_blank">AIAA2021.</a></br>
+</details>
 
 ### 2020
 <details>
