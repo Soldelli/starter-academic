@@ -14,6 +14,7 @@ subtitle:
 ---
 
 ### 2022
+**[2022-03-15]** I gave a talk about my research at the **Rising Stars in AI Symposium** @ KAUST. See my talk [here](https://webcast.kaust.edu.sa/Mediasite/Showcase/default/Presentation/88b31db635ba445bb5fcbf43f7d5136f1d). </br>
 **[2022-03-02]** "MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions" accepted in **CVPR22** [(preprint)](https://github.com/Soldelli/MAD). </br>
 **[2022-02-23]** Updated version of "Finding Moments in Video Collections Using Natural Language" is on ArXiv [(preprint)](https://arxiv.org/abs/1907.12763). </br>
 

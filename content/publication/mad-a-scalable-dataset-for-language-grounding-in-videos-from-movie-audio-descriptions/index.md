@@ -57,7 +57,7 @@ links:
 - name: Code
   url: https://github.com/Soldelli/MAD
 - name: Video
-  url: ''
+  url: 'https://webcast.kaust.edu.sa/Mediasite/Showcase/default/Presentation/88b31db635ba445bb5fcbf43f7d5136f1d'
 
 
 # url_pdf: ''
