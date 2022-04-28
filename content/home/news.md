@@ -20,6 +20,7 @@ subtitle:
 
 ### Earlier
 <details>
+<summary margin=0.5>Expand</summary>
 
 ### 2021
 <details>
