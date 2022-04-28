@@ -18,6 +18,9 @@ subtitle:
 **[2022-03-02]** "MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions" accepted in **CVPR22** [(preprint)](https://github.com/Soldelli/MAD). </br>
 **[2022-02-23]** Updated version of "Finding Moments in Video Collections Using Natural Language" is on ArXiv [(preprint)](https://arxiv.org/abs/1907.12763). </br>
 
+### Earlier
+<details>
+
 ### 2021
 <details>
     <summary margin=0.5>Expand</summary>
@@ -66,4 +69,6 @@ subtitle:
 <details>
   <summary>Expand</summary>
   <strong>[2015-02-23]</strong> I received my Bachelor degree in Information Engineering from the <a href="https://www.unipd.it/en/" target="_blank">University of Padova</a> (Italy). </br>
+</details>
+
 </details>
