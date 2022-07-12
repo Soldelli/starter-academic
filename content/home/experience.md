@@ -23,6 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
+      company: Samsung AI 
+      company_url: 'https://research.samsung.com/aicenter_cambridge'
+      company_logo: ''
+      location: Cambridge, United Kingdom
+      date_start: '2022-07-11'
+      date_end: 'Ongoing'
+      description: "
+      * Vision and Language research for Users Future Interactions.
+
+      "
+  - title: Research Intern
     company: King Abdullah University of Science and Technology
     company_url: 'https://www.kaust.edu.sa/en'
     company_logo: ''
