@@ -28,7 +28,7 @@ experience:
       company_logo: ''
       location: Cambridge, United Kingdom
       date_start: '2022-07-11'
-      date_end: 'Ongoing'
+      date_end: '2022-12-23'
       description: "
       * Vision and Language research for Users Future Interactions.
 
@@ -55,7 +55,7 @@ experience:
     description: "
     * Public tender proposals redaction: economic evaluation of prospect projects by analisys project's technical aspects. 
 
-    * Supported operational sectors of mobile networks (2G/3G/LTE) and fixed networks (Fiber optics)."
+    * Supported operational sectors of mobile and fixed networks."
 
 design:
   columns: '2'
