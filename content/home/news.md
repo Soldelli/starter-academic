@@ -14,9 +14,10 @@ subtitle:
 ---
 
 ### 2022
-**[2022-07-11]** Started my internship at Samsung AI - Cambridge [(website)](https://research.samsung.com/aicenter_cambridge).
-**[2022-06-20]** EgoVLP code release [(GitHub)](https://github.com/showlab/EgoVLP).
-**[2022-06-20]** EgoVLP won 1st place in OSCC & 2nd place in NLQ & 3rd place in PNR @ Ego4D Challenge 2022, and 1st place in Multi-Instance Retrieval @ EPIC-Kitchens Challenge 2022, hosted by CVPR 2022.
+**[2022-07-11]** Started my internship at Samsung AI - Cambridge [(website)](https://research.samsung.com/aicenter_cambridge). </br>
+**[2022-06-30]** EgoVLP code release [(GitHub)](https://github.com/showlab/EgoVLP). </br>
+**[2022-06-21]** EgoVLP won 1st place in Multi-Instance Retrieval @ EPIC-Kitchens Challenge 2022, hosted by CVPR 2022.  </br>
+**[2022-06-20]** EgoVLP won 1st place in OSCC, 2nd place in NLQ & 3rd place in PNR @ Ego4D Challenge 2022, hosted by CVPR 2022. </br>
 **[2022-06-19]** Attended my first (in-person) CVPR paper where I presented [MAD](publication/mad-a-scalable-dataset-for-language-grounding-in-videos-from-movie-audio-descriptions/). </br>
 **[2022-06-03]** Published a new preprint: "EgoVLP: Egocentric Video-Language Pretraining" [(preprint)](https://arxiv.org/pdf/2206.01670.pdf). </br>
 **[2022-03-15]** I gave a talk about my research at the **Rising Stars in AI Symposium** @ KAUST. See my talk [here](https://webcast.kaust.edu.sa/Mediasite/Showcase/default/Presentation/88b31db635ba445bb5fcbf43f7d5136f1d). </br>
