@@ -15,7 +15,7 @@ subtitle:
 
 ### 2022
 **[2022-09-14]** EgoVLP accepted at NeurIPS. ([preprint](https://arxiv.org/pdf/2206.01670.pdf), [code](https://github.com/showlab/EgoVLP)). </br>
-**[2022-08-17]** Completed another Ph.D. milestone by succesfully defended my Ph.D. proposal and earning the title of **Ph.D. Candidate**. </br>
+**[2022-08-17]** Completed another Ph.D. milestone by succesfully defending my Ph.D. proposal and earning the title of **Ph.D. Candidate**. </br>
 **[2022-07-29]** I gave a talk about my research at the [Machine Learning and Computer Vision Group](https://uob-mavi.github.io/people/) lead by Professor [Dima Damen](https://scholar.google.com/citations?user=OxL9Wn8AAAAJ&hl=it&oi=ao) at the **University of Bristol**. </br>
 **[2022-07-11]** Started my internship at Samsung AI - Cambridge [(website)](https://research.samsung.com/aicenter_cambridge). </br>
 **[2022-06-30]** EgoVLP code release [(GitHub)](https://github.com/showlab/EgoVLP). </br>
