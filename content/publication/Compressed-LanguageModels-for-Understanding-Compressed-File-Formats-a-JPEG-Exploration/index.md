@@ -53,10 +53,6 @@ links:
   url: https://arxiv.org/abs/2405.17146
 - name: PDF
   url: https://arxiv.org/pdf/2405.17146
-- name: Supplementary Material
-  url: ''
-- name: Code
-  url: ''
 # - name: Video
 #   url: 'https://webcast.kaust.edu.sa/Mediasite/Showcase/default/Presentation/88b31db635ba445bb5fcbf43f7d5136f1d'
 
@@ -82,7 +78,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- DenoiseLoc
+- CLM
 
 
 

@@ -48,8 +48,6 @@ links:
   url: https://arxiv.org/abs/1911.08608
 - name: PDF
   url: https://arxiv.org/pdf/1911.08608
-- name: Supplementary Material
-  url: ''
 - name: Code
   url: https://github.com/Soldelli/gait_anomaly_detection
 

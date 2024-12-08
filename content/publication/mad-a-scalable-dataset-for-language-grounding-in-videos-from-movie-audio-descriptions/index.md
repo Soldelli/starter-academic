@@ -52,8 +52,6 @@ links:
   url: https://arxiv.org/abs/2112.00431
 - name: PDF
   url: https://arxiv.org/pdf/2112.00431.pdf
-- name: Supplementary Material
-  url: ''
 - name: Code
   url: https://github.com/Soldelli/MAD
 - name: Video

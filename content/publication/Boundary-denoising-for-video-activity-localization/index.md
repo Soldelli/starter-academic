@@ -51,8 +51,6 @@ links:
   url: https://arxiv.org/abs/2304.02934
 - name: PDF
   url: https://arxiv.org/pdf/2304.02934
-- name: Supplementary Material
-  url: ''
 - name: Code
   url: https://github.com/frostinassiky/denoiseloc
 # - name: Video

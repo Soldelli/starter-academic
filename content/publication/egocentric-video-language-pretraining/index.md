@@ -61,12 +61,8 @@ links:
   url: https://arxiv.org/abs/2206.01670
 - name: PDF
   url: https://arxiv.org/pdf/2206.01670.pdf
-- name: Supplementary Material
-  url: ''
 - name: Code
   url: https://github.com/showlab/EgoVLP
-- name: Video
-  url: ''
 
 
 # url_pdf: ''

@@ -49,8 +49,6 @@ links:
   url: https://arxiv.org/abs/1907.12763
 - name: PDF
   url: https://arxiv.org/pdf/1907.12763.pdf
-- name: Supplementary Material
-  url: ''
 - name: Code
   url: https://github.com/escorciav/moments-retrieval
 - name: Video

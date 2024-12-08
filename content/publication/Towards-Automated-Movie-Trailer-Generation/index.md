@@ -53,12 +53,6 @@ links:
   url: https://openaccess.thecvf.com/content/CVPR2024/html/Argaw_Towards_Automated_Movie_Trailer_Generation_CVPR_2024_paper.html
 - name: PDF
   url: https://openaccess.thecvf.com/content/CVPR2024/papers/Argaw_Towards_Automated_Movie_Trailer_Generation_CVPR_2024_paper.pdf
-- name: Supplementary Material
-  url: ''
-- name: Code
-  url: ''
-# - name: Video
-#   url: 'https://webcast.kaust.edu.sa/Mediasite/Showcase/default/Presentation/88b31db635ba445bb5fcbf43f7d5136f1d'
 
 
 # url_pdf: ''
