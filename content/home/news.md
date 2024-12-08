@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
@@ -81,4 +81,4 @@ subtitle:
   <strong>[2015-02-23]</strong> I received my Bachelor degree in Information Engineering from the <a href="https://www.unipd.it/en/" target="_blank">University of Padova</a> (Italy). </br>
 </details>
 
-</details>
+</details> -->
