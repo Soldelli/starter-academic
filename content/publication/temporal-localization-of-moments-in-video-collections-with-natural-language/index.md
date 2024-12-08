@@ -1,5 +1,5 @@
 ---
-title: "Temporal localization of moments in video collections with natural language"
+title: "Finding Moments in Video Collections Using Natural Language"
 subtitle: ''
 
 # Authors
