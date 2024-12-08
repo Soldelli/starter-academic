@@ -1,8 +1,8 @@
 ---
-title: Seq2Seq RNN based gait anomaly detection from smartphone acquired multimodal motion data
-summary: Development of Deep Learning powered pipeline for anomaly detection in human gait from smartphone sensors data. 
+title: "OpenTAD: An Open-Source Toolbox for Temporal Action Detection"
+summary: "OpenTAD is an open-source temporal action detection (TAD) toolbox based on PyTorch developed for fostering reproducible open research."
 tags:
-date: "2019-11-09T00:00:00Z"
+date: "2024-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,8 +16,8 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://github.com/Soldelli/gait_anomaly_detection"
-url_pdf: https://arxiv.org/pdf/1911.08608.pdf"
+url_code: "https://github.com/sming256/OpenTAD"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -29,4 +29,7 @@ url_video: ""
 # slides: example
 ---
 
-Smartphones and wearable devices are fast-growing technologies that, in conjunction with advances in wireless sensor hardware, are enabling ubiquitous sensing applications. Wearables are suitable for indoor and outdoor scenarios, can be placed on many parts of the human body, and can integrate a large number of sensors capable of gathering physiological and behavioral biometric information. Here, we are concerned with gait analysis systems that extract meaningful information from users' movements to identify anomalies and changes in their walking style. The solution that is put forward is subject-specific, as the designed feature extraction and classification tools are trained on the subject under observation. A smartphone mounted on an ad-hoc made chest support is utilized to gather inertial data and video signals from its built-in sensors and rear-facing camera. The collected video and inertial data are preprocessed, combined, and then classified by means of a Recurrent Neural Network (RNN) based Sequence-to-Sequence (Seq2Seq) model, which is used as a feature extractor, and a following Convolutional Neural Network (CNN) classifier. This architecture provides excellent results, being able to correctly assess anomalies in 100% of the cases, for the considered tests, surpassing the performance of support vector machine classifiers.
+- Support SoTA TAD methods with modular design. We decompose the TAD pipeline into different components, and implement them in a modular way. This design makes it easy to implement new methods and reproduce existing methods.
+- Support multiple TAD datasets. We support 9 TAD datasets, including ActivityNet-1.3, THUMOS-14, HACS, Ego4D-MQ, EPIC-Kitchens-100, FineAction, Multi-THUMOS, Charades, and EPIC-Sounds Detection datasets.
+- Support feature-based training and end-to-end training. The feature-based training can easily be extended to end-to-end training with raw video input, and the video backbone can be easily replaced.
+- Release various pre-extracted features. We release the feature extraction code, as well as many pre-extracted features on each dataset.
