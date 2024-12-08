@@ -6,18 +6,17 @@ subtitle: ''
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Mengmeng Xu *
-- admin *
+- Mengmeng Xu
+- admin
 - Jialin Gao 
 - Shuming Liu 
 - Juan-Manuel Pérez-Rúa
 - Bernard Ghanem
 
 # Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2023-04-01T11:00:43.124Z"
 doi: ""
