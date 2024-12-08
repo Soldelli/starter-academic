@@ -1,6 +1,6 @@
 ---
 title: Mattia Soldan
-role: PhD Student - Electrical and Computer Engineering
+role: PhD Candidate - Electrical and Computer Engineering
 avatar_filename: avatar.jpg
 bio: " My research interests are settled at the intersection between Computer
   Vision and Natural Language Processing."
