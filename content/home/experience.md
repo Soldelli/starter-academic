@@ -32,6 +32,7 @@ experience:
     description: "
     * Development of effivient vision and language models for video processing.
     "
+
   - title: Research Intern
     company: Samsung AI 
     company_url: 'https://research.samsung.com/aicenter_cambridge'
