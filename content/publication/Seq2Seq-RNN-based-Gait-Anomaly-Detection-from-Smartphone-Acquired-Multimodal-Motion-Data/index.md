@@ -1,6 +1,6 @@
 ---
-title: "VLG-Net: Video-Language Graph Matching Network for Video Grounding"
-subtitle: Best Paper Award
+title: "Seq2Seq RNN based Gait Anomaly Detection from Smartphone Acquired Multimodal Motion Data"
+subtitle: 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -47,13 +47,11 @@ links:
 - name: Preprint
   url: https://arxiv.org/abs/1911.08608
 - name: PDF
-  url: https://openaccess.thecvf.com/content/ICCV2021W/CVEU/papers/Soldan_VLG-Net_Video-Language_Graph_Matching_Network_for_Video_Grounding_ICCVW_2021_paper.pdf
+  url: https://arxiv.org/pdf/1911.08608
 - name: Supplementary Material
-  url: https://openaccess.thecvf.com/content/ICCV2021W/CVEU/supplemental/Soldan_VLG-Net_Video-Language_Graph_ICCVW_2021_supplemental.pdf
+  url: ''
 - name: Code
-  url: https://github.com/Soldelli/VLG-Net
-- name: Video
-  url: https://www.youtube.com/watch?v=u9IwxnDCb68
+  url: https://github.com/Soldelli/gait_anomaly_detection
 
 
 # url_pdf: ''
@@ -77,7 +75,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- VLG-Net
+- Seq2Seq
 
 
 
