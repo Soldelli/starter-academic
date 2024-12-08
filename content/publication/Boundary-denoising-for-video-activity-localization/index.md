@@ -1,5 +1,5 @@
 ---
-title: "Localizing Moments in Long Video via Multimodal Guidance"
+title: "Boundary-denoising for video activity localization"
 subtitle: ''
 
 # Authors
