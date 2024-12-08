@@ -1,8 +1,8 @@
 ---
-title: Seq2Seq RNN based gait anomaly detection from smartphone acquired multimodal motion data
-summary: Development of Deep Learning powered pipeline for anomaly detection in human gait from smartphone sensors data. 
+title: "AI-Sports: Taking E-Sports To The Next Level"
+summary: "1st position at the NEOM AI Challenge"
 tags:
-date: "2019-11-09T00:00:00Z"
+date: "2020-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,9 +16,9 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://github.com/Soldelli/gait_anomaly_detection"
-url_pdf: https://arxiv.org/pdf/1911.08608.pdf"
-url_slides: ""
+url_code: ""
+url_pdf: ""
+url_slides: "https://docs.google.com/presentation/d/1YN2K56KfI-9p5N3ld_iEMJ5lfXTE2nvi/edit?usp=sharing&ouid=100430788961274771589&rtpof=true&sd=true"
 url_video: ""
 
 # Slides (optional).
@@ -29,4 +29,4 @@ url_video: ""
 # slides: example
 ---
 
-Smartphones and wearable devices are fast-growing technologies that, in conjunction with advances in wireless sensor hardware, are enabling ubiquitous sensing applications. Wearables are suitable for indoor and outdoor scenarios, can be placed on many parts of the human body, and can integrate a large number of sensors capable of gathering physiological and behavioral biometric information. Here, we are concerned with gait analysis systems that extract meaningful information from users' movements to identify anomalies and changes in their walking style. The solution that is put forward is subject-specific, as the designed feature extraction and classification tools are trained on the subject under observation. A smartphone mounted on an ad-hoc made chest support is utilized to gather inertial data and video signals from its built-in sensors and rear-facing camera. The collected video and inertial data are preprocessed, combined, and then classified by means of a Recurrent Neural Network (RNN) based Sequence-to-Sequence (Seq2Seq) model, which is used as a feature extractor, and a following Convolutional Neural Network (CNN) classifier. This architecture provides excellent results, being able to correctly assess anomalies in 100% of the cases, for the considered tests, surpassing the performance of support vector machine classifiers.
+We have witnessed in the past few years a boom in the E-sports gaming industry with several online competitions, e.g. Fortnite, FIFA, LOL, GTA to name a few. This has opened new doors for unprecedented economic opportunities through online streaming and advertising campaigns. We propose to step up this industry by merging it with modern tools from computer vision and machine learning to provide AI educational competitions with the flavor of "Human vs AI" that is currently picking up with AlphaZero and AlphaStar by Google DeepMind. Moreover, and since "data is the new oil", we will be utilizing the generated data from the competitions to build better AI agents for future games and challenges. We believe that this will open new advertising opportunities and a new market for data collection that will be provided to the world by NEOM.
